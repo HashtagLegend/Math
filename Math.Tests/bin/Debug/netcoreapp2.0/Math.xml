@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Math</name>
+    </assembly>
+    <members>
+        <member name="M:Math.Math.Addition(System.Int32,System.Int32)">
+            <summary>
+            adds 2 int values: a + b
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Math.Math.Subtraction(System.Int32,System.Int32)">
+            <summary>
+            Subtracts 2 int values: a - b
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Math.Math.Division(System.Int32,System.Int32)">
+            <summary>
+            Divides 2 values: a / b
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Math.Math.Multiply(System.Int32,System.Int32)">
+            <summary>
+            Multiplies 2 int values: a * b
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

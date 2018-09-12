@@ -15,3 +15,4 @@ D:\source\Math\Math.Tests\obj\Debug\netcoreapp2.0\Math.Tests.AssemblyInfo.cs
 D:\source\Math\Math.Tests\obj\Debug\netcoreapp2.0\Math.Tests.csproj.CopyComplete
 D:\source\Math\Math.Tests\obj\Debug\netcoreapp2.0\Math.Tests.dll
 D:\source\Math\Math.Tests\obj\Debug\netcoreapp2.0\Math.Tests.pdb
+D:\source\Math\Math.Tests\bin\Debug\netcoreapp2.0\Math.xml
