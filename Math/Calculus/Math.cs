@@ -6,6 +6,11 @@ namespace Math
 {
     public class Math
     {
+
+        public Math()
+        {
+
+        }
         /// <summary>
         /// adds 2 int values: a + b
         /// </summary>
